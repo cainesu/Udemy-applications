@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
 # Udemy-applications
 Using python create 10 apps
->>>>>>> 91ad543b356cc29432870242efc4b2d7776d629a
+
 ---------------------
 
  * Introduction
